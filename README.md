@@ -42,10 +42,12 @@ docker run -it -p 8080:8080 --rm frontend-vue
 
 ### Tela de Autores
 
-![Tela de Autores](https://prnt.sc/yVhGg5q2qxbX)
+![image](https://github.com/micaelparadox/centraldepedidos-frontend/assets/69440479/13e4e844-d6bf-47be-9d8c-a0c2cabc853f)
+
 
 ### Tela de Livros
 
-![Tela de Livros](https://prnt.sc/0fsPbjQcEluG)
+![image](https://github.com/micaelparadox/centraldepedidos-frontend/assets/69440479/f2dfa037-7a6c-4493-8bf9-cd34bde75ba3)
+
 
 ```
